@@ -61,6 +61,7 @@ public class StackAddITest {
         //System.out.println("i6 = " + i6);//11
 
         //3.
+
         //32 bipush 10
         //34 istore 7
         //36 iload 7
