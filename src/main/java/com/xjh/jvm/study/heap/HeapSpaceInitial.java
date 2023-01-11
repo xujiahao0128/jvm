@@ -32,7 +32,6 @@ public class HeapSpaceInitial {
         System.out.println("系统最大内存大小为：" + totalMemory * 64 / 1024 + "G");
         System.out.println("系统最大内存大小为：" + maxMemory * 4 / 1024 + "G");
 
-
     }
 
 }
