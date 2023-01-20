@@ -23,7 +23,6 @@ public class classLoadDemo {
     public static void main(String[] args) {
 
 
-
         //系统类加载器
         ClassLoader systemClassLoader = ClassLoader.getSystemClassLoader();
         //systemClassLoader.toString() = sun.misc.Launcher$AppClassLoader@18b4aac2    class: sun.misc.Launcher$AppClassLoader
